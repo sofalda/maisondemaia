@@ -1,0 +1,48 @@
+{
+    "Index": {
+        "title": "La Maison de Maïa",
+        "description": "Des atmosphères intemporelles à travers le design, les fleurs et l'émotion.",
+        "aboutTitle": "Bienvenue",
+        "aboutP1": "Découvrez le mélange unique de l'esthétique franco-californienne au cœur de Barcelone. Avec plus de 25 ans d'expérience à Los Angeles, Maïa crée des atmosphères qui racontent une histoire.",
+        "explore": "Explorer"
+    },
+    "Navigation": {
+        "home": "Accueil",
+        "about": "À propos",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+    },
+    "Services": {
+        "title": "Nos Services",
+        "eventDesign": "Design & Stylisme d'Événements",
+        "floralDesign": "Art Floral",
+        "interiorStyling": "Stylisme d'Intérieur",
+        "explore": "Découvrir →"
+    },
+    "About": {
+        "fullTitle": "Maïa Ollivier — Styliste d'Intérieur & d'Événements | Home Staging | Design Floral & Visuel",
+        "p1": "Depuis plus de 25 ans, Maïa crée des atmosphères raffinées, poétiques et intemporelles pour les maisons, les boutiques et les événements.",
+        "p2": "Après deux décennies à Los Angeles, où elle a fondé La Maison de Maïa, elle est devenue une partenaire de confiance pour les marques de luxe, les clients privés et les producteurs d'événements cherchant à allier élégance et émotion avec fonctionnalité et retour sur investissement.",
+        "p3": "Son expertise couvre le stylisme d'intérieur, le home staging, le design d'événements, la composition florale et le merchandising visuel. Maïa est reconnue pour son attention méticuleuse aux détails, sa capacité à dénicher des objets et matériaux uniques, et son regard créatif qui transforme n'importe quel espace — qu'il s'agisse d'une vitrine de boutique, d'une maison familiale ou d'un lieu de mariage — en une histoire.",
+        "p4": "Désormais basée à Barcelone, Maïa apporte son esthétique signature franco-californienne en Europe. Son approche mélange la sophistication décontractée de la Californie avec l'élégance et le savoir-faire du design européen.",
+        "expertiseTitle": "Expertise :",
+        "expertise1": "Home staging et stylisme d'intérieur",
+        "expertise2": "Design d'événements et floral",
+        "expertise3": "Merchandising visuel et vitrines",
+        "expertise4": "Stylisme de salons professionnels et de boutiques",
+        "expertise5": "Sourcing et direction artistique",
+        "philosophyTitle": "Philosophie :",
+        "philosophyQuote": "« Chaque projet commence par une émotion. Mon objectif est de faire parler les espaces — d'exprimer la beauté, l'authenticité et l'harmonie. »"
+    },
+    "Contact": {
+        "title": "Contactez-nous",
+        "email": "E-mail",
+        "phone": "Téléphone",
+        "location": "Lieu",
+        "namePlaceholder": "Nom",
+        "emailPlaceholder": "E-mail",
+        "messagePlaceholder": "Votre message",
+        "submit": "Envoyer"
+    }
+}

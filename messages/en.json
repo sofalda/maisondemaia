@@ -1,0 +1,48 @@
+{
+  "Index": {
+    "title": "La Maison de Maïa",
+    "description": "Elegant atmospheres through design, flowers, and emotion.",
+    "aboutTitle": "Welcome",
+    "aboutP1": "Discover the unique blend of Franco-Californian aesthetic brought to the heart of Barcelona. With over 25 years of experience in Los Angeles, Maïa creates atmospheres that tell a story.",
+    "explore": "Explore"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "Services": {
+    "title": "Our Services",
+    "eventDesign": "Event Design & Styling",
+    "floralDesign": "Floral Design",
+    "interiorStyling": "Interior Styling",
+    "explore": "Explore →"
+  },
+  "About": {
+    "fullTitle": "Maïa Ollivier — Interior & Event Stylist | Home Staging | Floral & Visual Design",
+    "p1": "For over 25 years, Maïa has been creating refined, poetic, and timeless atmospheres for homes, boutiques, and events.",
+    "p2": "After two decades in Los Angeles, where she founded La Maison de Maïa, she became a trusted partner for luxury brands, private clients, and event producers seeking to combine elegance and emotion with functionality and return on investment.",
+    "p3": "Her expertise covers interior styling, home staging, event design, floral composition, and visual merchandising. Maïa is known for her meticulous attention to detail, her ability to source unique objects and materials, and her creative eye that transforms any space — whether a boutique window, a family home, or a wedding venue — into a story.",
+    "p4": "Now based in Barcelona, Maïa brings her signature Franco-Californian aesthetic to Europe. Her approach blends the relaxed sophistication of California with the elegance and craftsmanship of European design.",
+    "expertiseTitle": "Expertise:",
+    "expertise1": "Home staging and interior styling",
+    "expertise2": "Event & floral design",
+    "expertise3": "Visual merchandising and window display",
+    "expertise4": "Trade show & retail styling",
+    "expertise5": "Sourcing and creative direction",
+    "philosophyTitle": "Philosophy:",
+    "philosophyQuote": "\"Every project begins with emotion. My goal is to make spaces speak — to express beauty, authenticity, and harmony.\""
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Message",
+    "submit": "Send Message"
+  }
+}

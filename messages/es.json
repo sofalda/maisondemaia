@@ -1,0 +1,48 @@
+{
+    "Index": {
+        "title": "La Maison de Maïa",
+        "description": "Atmósferas atemporales a través del diseño, las flores y la emoción.",
+        "aboutTitle": "Bienvenida",
+        "aboutP1": "Descubra la combinación única de la estética franco-californiana en el corazón de Barcelona. Con más de 25 años de experiencia en Los Ángeles, Maïa crea atmósferas que cuentan una historia.",
+        "explore": "Explorar"
+    },
+    "Navigation": {
+        "home": "Inicio",
+        "about": "Sobre mí",
+        "services": "Servicios",
+        "portfolio": "Portafolio",
+        "contact": "Contacto"
+    },
+    "Services": {
+        "title": "Nuestros Servicios",
+        "eventDesign": "Diseño y Estilismo de Eventos",
+        "floralDesign": "Diseño Floral",
+        "interiorStyling": "Estilismo de Interiores",
+        "explore": "Explorar →"
+    },
+    "About": {
+        "fullTitle": "Maïa Ollivier — Estilista de Interiores y Eventos | Home Staging | Diseño Floral y Visual",
+        "p1": "Durante más de 25 años, Maïa ha estado creando atmósferas refinadas, poéticas y atemporales para hogares, boutiques y eventos.",
+        "p2": "Después de dos décadas en Los Ángeles, donde fundó La Maison de Maïa, se convirtió en una socia de confianza para marcas de lujo, clientes privados y productores de eventos que buscan combinar elegancia y emoción con funcionalidad y retorno de la inversión.",
+        "p3": "Su experiencia abarca el estilismo de interiores, home staging, diseño de eventos, composición floral y visual merchandising. Maïa es conocida por su meticulosa atención al detalle, su capacidad para encontrar objetos y materiales únicos, y su ojo creativo que transforma cualquier espacio — ya sea el escaparate de una boutique, un hogar familiar o el lugar de una boda — en una historia.",
+        "p4": "Ahora establecida en Barcelona, Maïa trae su estética distintiva franco-californiana a Europa. Su enfoque combina la sofisticación relajada de California con la elegancia y la artesanía del diseño europeo.",
+        "expertiseTitle": "Experiencia:",
+        "expertise1": "Home staging y estilismo de interiores",
+        "expertise2": "Diseño de eventos y floral",
+        "expertise3": "Visual merchandising y escaparatismo",
+        "expertise4": "Estilismo para ferias y comercio minorista",
+        "expertise5": "Sourcing y dirección creativa",
+        "philosophyTitle": "Filosofía:",
+        "philosophyQuote": "\"Cada proyecto comienza con una emoción. Mi objetivo es hacer hablar a la los espacios — expresar belleza, autenticidad y armonía.\""
+    },
+    "Contact": {
+        "title": "Ponte en contacto",
+        "email": "Correo electrónico",
+        "phone": "Teléfono",
+        "location": "Ubicación",
+        "namePlaceholder": "Nombre",
+        "emailPlaceholder": "Correo electrónico",
+        "messagePlaceholder": "Mensaje",
+        "submit": "Enviar mensaje"
+    }
+}
