@@ -1,4 +1,5 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
+import Image from 'next/image';
 
 export default async function AboutPage({
   params
@@ -27,7 +28,16 @@ export default async function AboutPage({
           </div>
 
           <div className="about-portrait-side">
-            <img src="/maia_about.jpg" alt="Maïa Ollivier" className="maia-portrait" />
+            <div className="maia-portrait-container">
+              <Image
+                src="/maia_about.jpg"
+                alt="Maïa Ollivier"
+                width={500}
+                height={700}
+                className="maia-portrait"
+                priority
+              />
+            </div>
           </div>
         </div>
 
