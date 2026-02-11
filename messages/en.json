@@ -40,9 +40,17 @@
     "email": "Email",
     "phone": "Phone",
     "location": "Location",
+    "connect": "Connect",
+    "connectText": "Follow us on Instagram or LinkedIn for daily inspiration.",
     "namePlaceholder": "Name",
     "emailPlaceholder": "Email",
     "messagePlaceholder": "Message",
-    "submit": "Send Message"
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "thankYou": "Message Sent",
+    "successMessage": "Thank you for contacting us. We will get back to you shortly.",
+    "errorName": "Please enter a valid name.",
+    "errorEmail": "Please enter a valid email address.",
+    "errorMessage": "Message must be at least 10 characters."
   }
 }

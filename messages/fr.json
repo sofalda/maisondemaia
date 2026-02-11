@@ -40,9 +40,17 @@
         "email": "E-mail",
         "phone": "Téléphone",
         "location": "Lieu",
+        "connect": "Suivez-nous",
+        "connectText": "Retrouvez-nous sur Instagram ou LinkedIn pour votre dose d'inspiration quotidienne.",
         "namePlaceholder": "Nom",
         "emailPlaceholder": "E-mail",
         "messagePlaceholder": "Votre message",
-        "submit": "Envoyer"
+        "submit": "Envoyer",
+        "sending": "Envoi en cours...",
+        "thankYou": "Message envoyé",
+        "successMessage": "Merci de nous avoir contactés. Nous vous répondrons dans les plus brefs délais.",
+        "errorName": "Veuillez entrer un nom valide.",
+        "errorEmail": "Veuillez entrer une adresse e-mail valide.",
+        "errorMessage": "Le message doit contenir au moins 10 caractères."
     }
 }
